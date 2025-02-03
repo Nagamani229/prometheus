@@ -10,8 +10,8 @@ receivers:
     - smarthost: 'email-smtp.us-east-1.amazonaws.com:587'
       auth_username: 'AKIAUSW45M2WLWUJ24GB'
       auth_password: "BCa2C3WeJt+K0PLvGP1Ca94PCPGDH2kTVs68mYFkntDd"
-      from: 'joindevops@gmail.com'
-      to: 'info@joindevops.com'
+      from: 'nagamanipotu56@gmail.com'
+      to: 'maniyadav5690@gmail.com'
       headers:
         subject: 'Prometheus Mail Alerts'
 inhibit_rules:
